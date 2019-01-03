@@ -1,6 +1,6 @@
 # Kattis
 
-## Kattis site:
+## Kattis site
 [Kattis problems](https://open.kattis.com/problems)
 
 ### Solved problems
