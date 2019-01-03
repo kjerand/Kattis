@@ -9,6 +9,7 @@
 - Arithmetic
 - Babelfish
 - Coconut
+- CD
 - DiceCup
 - Modulo
 - NumberFun
