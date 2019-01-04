@@ -2,9 +2,11 @@ import math
 nr = int(input())
 
 def binarySearch(lower, upper):
-    middle = math.floor((lower + upper) / 2)
+    middle = (lower + upper) // 2
     value = middle * len(str(middle))
     if value == nr:
+        return middle
+    elif value + 1 == nr:
         return middle
     elif value < nr:
         return binarySearch(middle, upper)
