@@ -6,7 +6,3 @@ if len(patient) < len(doctor):
     print("no")
 else:
     print("go")
-
-1101
-
-1011
